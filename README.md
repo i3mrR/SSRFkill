@@ -3,7 +3,7 @@
 
 A SSRF-Tool written in golang
 
-**Version 1.0**
+**Version 1.1**
 
 ***
 ### 🔥 Upcoming Features 🔥
@@ -93,8 +93,5 @@ Also, Make sure to customerise your patterns file for greater results
 
 
 
-**If you get a bounty please support by buying me a coffee**
-
-<br>
-<a href="https://www.buymeacoffee.com/krypt0mux" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+**Happy Hunting**
 
